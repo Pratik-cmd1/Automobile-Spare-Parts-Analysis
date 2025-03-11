@@ -1,0 +1,201 @@
+Supplier_ID,Supplier_Name,Contact,Location,Rating,Delivery_Time_Avg
+S3000,TVS Spare Parts,8439207119,Delhi,3.4,2
+S3001,Mahindra Spare Hub,8759860949,Karnataka,4.1,2
+S3002,Mahindra Spare Hub,8627980601,Uttar Pradesh,4.0,7
+S3003,Mahindra Spare Hub,8909759024,Karnataka,4.0,8
+S3004,TVS Spare Parts,8432171896,Karnataka,3.6,9
+S3005,Mahindra Spare Hub,8560190662,West Bengal,4.0,6
+S3006,Mahindra Spare Hub,8450030868,Karnataka,4.4,5
+S3007,Hero Parts Suppliers,8196223812,Tamil Nadu,3.8,6
+S3008,Bajaj Auto Ltd,8716689148,Delhi,4.9,7
+S3009,Bajaj Auto Ltd,8671994674,Karnataka,3.1,5
+S3010,Bajaj Auto Ltd,8418301900,Delhi,5.0,9
+S3011,TVS Spare Parts,8554590728,Maharashtra,4.5,4
+S3012,Tata Motors Ltd,8831506908,Maharashtra,4.2,2
+S3013,Tata Motors Ltd,8984549870,Karnataka,3.4,5
+S3014,Hero Parts Suppliers,8501935017,Tamil Nadu,4.3,3
+S3015,Tata Motors Ltd,8506588619,Maharashtra,4.6,7
+S3016,Tata Motors Ltd,8326829721,Maharashtra,3.5,8
+S3017,Bajaj Auto Ltd,8898929246,Tamil Nadu,3.1,9
+S3018,Bajaj Auto Ltd,8218243892,West Bengal,3.9,5
+S3019,TVS Spare Parts,8944558022,Karnataka,3.6,7
+S3020,Tata Motors Ltd,8525119670,Gujarat,3.6,5
+S3021,TVS Spare Parts,8131771534,Maharashtra,4.4,3
+S3022,Mahindra Spare Hub,8951870405,Tamil Nadu,3.3,4
+S3023,Hero Parts Suppliers,8318733141,Maharashtra,4.3,7
+S3024,Hero Parts Suppliers,8298360221,Delhi,3.1,2
+S3025,Mahindra Spare Hub,8790362782,Uttar Pradesh,4.8,6
+S3026,Hero Parts Suppliers,8701938081,Maharashtra,4.2,7
+S3027,Tata Motors Ltd,8810431557,Gujarat,4.9,7
+S3028,TVS Spare Parts,8694720094,Uttar Pradesh,4.7,7
+S3029,Tata Motors Ltd,8649156586,Delhi,4.7,7
+S3030,Hero Parts Suppliers,8732609366,Gujarat,3.2,4
+S3031,Tata Motors Ltd,8377094381,West Bengal,4.4,6
+S3032,Hero Parts Suppliers,8820503894,Tamil Nadu,3.8,6
+S3033,TVS Spare Parts,8674288543,West Bengal,3.9,4
+S3034,Hero Parts Suppliers,8714527060,Delhi,3.6,5
+S3035,Mahindra Spare Hub,8619145974,Maharashtra,3.3,4
+S3036,Hero Parts Suppliers,8699195960,West Bengal,3.6,6
+S3037,Mahindra Spare Hub,8989275674,Delhi,4.1,4
+S3038,TVS Spare Parts,8756780188,West Bengal,3.8,3
+S3039,Hero Parts Suppliers,8425291989,Uttar Pradesh,4.4,9
+S3040,TVS Spare Parts,8212859213,Gujarat,4.7,7
+S3041,Bajaj Auto Ltd,8845153870,Delhi,3.4,8
+S3042,Bajaj Auto Ltd,8630260483,Maharashtra,3.1,9
+S3043,Hero Parts Suppliers,8235713167,West Bengal,5.0,5
+S3044,Bajaj Auto Ltd,8562299025,Uttar Pradesh,4.8,9
+S3045,Tata Motors Ltd,8921544641,Tamil Nadu,3.5,5
+S3046,Tata Motors Ltd,8343256998,West Bengal,3.3,9
+S3047,Mahindra Spare Hub,8842764128,Delhi,4.9,6
+S3048,Bajaj Auto Ltd,8857560954,Karnataka,3.5,7
+S3049,Mahindra Spare Hub,8482550756,Maharashtra,3.4,7
+S3050,Bajaj Auto Ltd,8243411260,Uttar Pradesh,3.2,5
+S3051,Tata Motors Ltd,8657369078,West Bengal,3.6,7
+S3052,Bajaj Auto Ltd,8691407318,Delhi,4.7,6
+S3053,Tata Motors Ltd,8247673529,Tamil Nadu,4.1,7
+S3054,Tata Motors Ltd,8639177280,Maharashtra,3.2,3
+S3055,TVS Spare Parts,8111178039,Gujarat,4.9,6
+S3056,Tata Motors Ltd,8829113542,Maharashtra,4.1,3
+S3057,Tata Motors Ltd,8836091065,Tamil Nadu,3.8,7
+S3058,Mahindra Spare Hub,8668337530,Tamil Nadu,4.6,8
+S3059,Bajaj Auto Ltd,8272505828,Uttar Pradesh,4.1,3
+S3060,Hero Parts Suppliers,8330552504,Delhi,4.8,5
+S3061,Hero Parts Suppliers,8204589787,West Bengal,4.4,5
+S3062,Tata Motors Ltd,8435021096,Uttar Pradesh,4.3,6
+S3063,Bajaj Auto Ltd,8306783981,Maharashtra,3.7,6
+S3064,TVS Spare Parts,8810989088,Uttar Pradesh,5.0,9
+S3065,Hero Parts Suppliers,8868058302,Karnataka,4.3,5
+S3066,Mahindra Spare Hub,8140896727,Tamil Nadu,3.9,9
+S3067,Mahindra Spare Hub,8811807149,Tamil Nadu,3.3,8
+S3068,Mahindra Spare Hub,8263299618,Maharashtra,4.1,9
+S3069,TVS Spare Parts,8475123248,Gujarat,4.3,6
+S3070,TVS Spare Parts,8259995464,Tamil Nadu,3.7,4
+S3071,TVS Spare Parts,8142571139,Tamil Nadu,3.1,6
+S3072,Bajaj Auto Ltd,8112437624,Uttar Pradesh,4.6,4
+S3073,Bajaj Auto Ltd,8801366815,West Bengal,4.3,8
+S3074,Bajaj Auto Ltd,8236092680,Delhi,4.4,6
+S3075,TVS Spare Parts,8932587865,Delhi,3.5,8
+S3076,Hero Parts Suppliers,8717527935,Tamil Nadu,3.3,4
+S3077,Hero Parts Suppliers,8909673851,Gujarat,3.9,3
+S3078,Hero Parts Suppliers,8842258667,Karnataka,3.5,9
+S3079,Bajaj Auto Ltd,8654767966,Gujarat,4.6,8
+S3080,Bajaj Auto Ltd,8769784952,Tamil Nadu,4.1,8
+S3081,Hero Parts Suppliers,8132548072,Uttar Pradesh,3.3,2
+S3082,TVS Spare Parts,8411258324,Karnataka,3.4,6
+S3083,Hero Parts Suppliers,8273628235,Karnataka,4.8,7
+S3084,Hero Parts Suppliers,8819670225,Karnataka,4.3,6
+S3085,Tata Motors Ltd,8545010562,Karnataka,3.8,9
+S3086,Bajaj Auto Ltd,8716216147,Uttar Pradesh,4.4,3
+S3087,Tata Motors Ltd,8846261344,Maharashtra,4.6,5
+S3088,Tata Motors Ltd,8687722920,Tamil Nadu,3.2,5
+S3089,Mahindra Spare Hub,8148727930,Gujarat,4.7,8
+S3090,Tata Motors Ltd,8682250827,Uttar Pradesh,4.9,5
+S3091,TVS Spare Parts,8613605870,Maharashtra,3.2,3
+S3092,Hero Parts Suppliers,8683428596,Karnataka,3.6,7
+S3093,Mahindra Spare Hub,8286007534,West Bengal,3.3,8
+S3094,TVS Spare Parts,8439234814,Delhi,3.9,2
+S3095,Mahindra Spare Hub,8353932722,Tamil Nadu,3.4,5
+S3096,Mahindra Spare Hub,8380751811,Tamil Nadu,3.7,5
+S3097,Mahindra Spare Hub,8504958696,Maharashtra,3.5,8
+S3098,Tata Motors Ltd,8631648346,Karnataka,3.0,6
+S3099,TVS Spare Parts,8805315829,Karnataka,3.0,3
+S3100,Mahindra Spare Hub,8100509354,Gujarat,4.0,8
+S3101,Mahindra Spare Hub,8729801947,Maharashtra,4.0,3
+S3102,Hero Parts Suppliers,8728876840,Uttar Pradesh,3.1,4
+S3103,Tata Motors Ltd,8576269001,Gujarat,4.4,6
+S3104,Bajaj Auto Ltd,8809842985,Uttar Pradesh,3.1,9
+S3105,TVS Spare Parts,8641534793,Tamil Nadu,4.0,9
+S3106,Hero Parts Suppliers,8903750419,Maharashtra,3.8,4
+S3107,Bajaj Auto Ltd,8453428911,Delhi,4.8,4
+S3108,Bajaj Auto Ltd,8798211011,Uttar Pradesh,4.2,2
+S3109,TVS Spare Parts,8139705987,Uttar Pradesh,4.6,5
+S3110,TVS Spare Parts,8909961993,Tamil Nadu,5.0,3
+S3111,Bajaj Auto Ltd,8567595347,Karnataka,3.4,4
+S3112,Tata Motors Ltd,8175922314,Uttar Pradesh,3.1,9
+S3113,TVS Spare Parts,8511379774,Gujarat,4.5,7
+S3114,Mahindra Spare Hub,8172340592,Gujarat,4.3,6
+S3115,Tata Motors Ltd,8367588768,West Bengal,4.3,3
+S3116,TVS Spare Parts,8226480332,Gujarat,3.6,5
+S3117,Mahindra Spare Hub,8798503682,Gujarat,3.2,3
+S3118,TVS Spare Parts,8262528928,West Bengal,4.4,2
+S3119,TVS Spare Parts,8230042603,Tamil Nadu,4.1,5
+S3120,Tata Motors Ltd,8593198248,Tamil Nadu,4.0,8
+S3121,Mahindra Spare Hub,8666579014,Karnataka,4.5,5
+S3122,Bajaj Auto Ltd,8673252299,West Bengal,5.0,3
+S3123,Hero Parts Suppliers,8811142142,Maharashtra,4.5,7
+S3124,Bajaj Auto Ltd,8875758986,Maharashtra,4.9,6
+S3125,Mahindra Spare Hub,8982494075,Uttar Pradesh,3.8,4
+S3126,Hero Parts Suppliers,8674227585,Maharashtra,4.8,9
+S3127,Tata Motors Ltd,8871114069,Maharashtra,4.5,7
+S3128,Hero Parts Suppliers,8658668899,Gujarat,3.7,4
+S3129,Tata Motors Ltd,8823008776,West Bengal,4.0,7
+S3130,Tata Motors Ltd,8870874599,West Bengal,3.4,8
+S3131,Bajaj Auto Ltd,8773025997,Karnataka,3.2,4
+S3132,Hero Parts Suppliers,8192757237,Tamil Nadu,3.9,9
+S3133,Tata Motors Ltd,8566588448,West Bengal,5.0,9
+S3134,Hero Parts Suppliers,8793206708,West Bengal,4.7,3
+S3135,Mahindra Spare Hub,8297332332,Tamil Nadu,3.0,6
+S3136,Bajaj Auto Ltd,8521255186,Delhi,4.9,3
+S3137,Mahindra Spare Hub,8553516506,Gujarat,3.9,7
+S3138,Hero Parts Suppliers,8532271379,Maharashtra,3.4,4
+S3139,TVS Spare Parts,8756478376,Gujarat,4.8,4
+S3140,Hero Parts Suppliers,8645466597,West Bengal,4.8,9
+S3141,Tata Motors Ltd,8611580159,West Bengal,4.7,7
+S3142,Bajaj Auto Ltd,8388342125,Gujarat,4.2,4
+S3143,TVS Spare Parts,8911899622,Maharashtra,3.5,6
+S3144,Hero Parts Suppliers,8250278354,West Bengal,3.5,7
+S3145,Bajaj Auto Ltd,8272021797,Tamil Nadu,4.9,9
+S3146,Tata Motors Ltd,8353864027,Uttar Pradesh,3.6,2
+S3147,Hero Parts Suppliers,8344414011,West Bengal,3.8,4
+S3148,Mahindra Spare Hub,8669243512,Karnataka,4.5,4
+S3149,TVS Spare Parts,8969727368,West Bengal,4.6,6
+S3150,Bajaj Auto Ltd,8408493251,Maharashtra,3.8,3
+S3151,Hero Parts Suppliers,8426985691,Tamil Nadu,3.8,7
+S3152,Bajaj Auto Ltd,8434610148,West Bengal,3.7,5
+S3153,TVS Spare Parts,8529230257,Gujarat,3.8,5
+S3154,Mahindra Spare Hub,8173458686,Delhi,4.5,9
+S3155,Hero Parts Suppliers,8197889348,Tamil Nadu,3.1,6
+S3156,TVS Spare Parts,8594456583,Tamil Nadu,4.6,2
+S3157,Tata Motors Ltd,8709793799,Gujarat,3.4,7
+S3158,Hero Parts Suppliers,8883585223,Delhi,3.3,3
+S3159,Tata Motors Ltd,8914154222,West Bengal,3.2,9
+S3160,Mahindra Spare Hub,8440295953,Karnataka,3.5,8
+S3161,Mahindra Spare Hub,8424152796,Gujarat,4.7,4
+S3162,Hero Parts Suppliers,8737693092,Maharashtra,4.1,3
+S3163,Bajaj Auto Ltd,8880582048,Uttar Pradesh,3.5,9
+S3164,Bajaj Auto Ltd,8495149813,Tamil Nadu,3.4,9
+S3165,Bajaj Auto Ltd,8899593775,Gujarat,4.5,2
+S3166,Bajaj Auto Ltd,8592149383,Karnataka,4.0,7
+S3167,TVS Spare Parts,8976842049,Maharashtra,3.2,4
+S3168,Hero Parts Suppliers,8172291692,Maharashtra,3.8,6
+S3169,Bajaj Auto Ltd,8830640654,Uttar Pradesh,3.9,6
+S3170,Mahindra Spare Hub,8983998566,West Bengal,3.7,4
+S3171,Hero Parts Suppliers,8189405421,Gujarat,3.5,4
+S3172,Bajaj Auto Ltd,8573616987,Karnataka,3.7,6
+S3173,Tata Motors Ltd,8937285618,Gujarat,4.5,2
+S3174,Hero Parts Suppliers,8111227059,Tamil Nadu,4.9,2
+S3175,Bajaj Auto Ltd,8416269349,Tamil Nadu,3.1,8
+S3176,TVS Spare Parts,8761575668,Gujarat,4.3,8
+S3177,Tata Motors Ltd,8374940972,West Bengal,3.1,6
+S3178,Tata Motors Ltd,8791090517,Tamil Nadu,3.4,3
+S3179,Mahindra Spare Hub,8852779612,Gujarat,4.1,2
+S3180,Bajaj Auto Ltd,8432249457,Maharashtra,4.6,2
+S3181,Bajaj Auto Ltd,8798017087,Uttar Pradesh,3.9,2
+S3182,Hero Parts Suppliers,8781254992,Gujarat,4.8,5
+S3183,Mahindra Spare Hub,8176348314,Uttar Pradesh,4.4,5
+S3184,Tata Motors Ltd,8490201589,Uttar Pradesh,3.4,4
+S3185,TVS Spare Parts,8306590176,West Bengal,4.4,2
+S3186,Bajaj Auto Ltd,8514629612,Maharashtra,3.6,5
+S3187,Tata Motors Ltd,8230611624,Uttar Pradesh,4.5,2
+S3188,Bajaj Auto Ltd,8376674832,Maharashtra,3.5,9
+S3189,Bajaj Auto Ltd,8459606648,Gujarat,3.3,2
+S3190,TVS Spare Parts,8177257105,Delhi,4.3,9
+S3191,TVS Spare Parts,8838085482,Uttar Pradesh,4.2,8
+S3192,TVS Spare Parts,8813995212,Delhi,4.1,7
+S3193,Hero Parts Suppliers,8788980890,Gujarat,3.5,7
+S3194,TVS Spare Parts,8681643725,West Bengal,3.4,4
+S3195,TVS Spare Parts,8907452513,Uttar Pradesh,4.8,8
+S3196,TVS Spare Parts,8334542313,Maharashtra,4.1,9
+S3197,TVS Spare Parts,8179551728,West Bengal,3.8,6
+S3198,Mahindra Spare Hub,8989493196,Delhi,4.6,6
+S3199,Hero Parts Suppliers,8346145972,West Bengal,3.1,9
